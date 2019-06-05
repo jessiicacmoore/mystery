@@ -10,4 +10,4 @@ Seventh Choice: Listen in on what he's saying
 Eighth Choice: Approach Helga and the Doctor
 Ninth Choice: Talk to them directly
 Tenth Choice: Approach Billy
-Eleventh Choice: Talk to Billy directly
+Eleventh Choice: Accuse Billy, Helga, and Danny together
