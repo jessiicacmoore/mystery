@@ -8,3 +8,4 @@ Fifth Choice: Listen in on what they're saying
 Sixth Choice: Approach Billy
 Seventh Choice: Listen in on what he's saying
 Eighth Choice: Approach Helga and the Doctor
+Ninth Choice: Talk to them directly
